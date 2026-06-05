@@ -1,0 +1,23 @@
+Environmental Noise Complaint Sampling Evidence Archiving End-to-End Collaborative Console
+Copyright (c) 2024
+
+This project uses the following third-party packages:
+
+Frontend Dependencies:
+- React (MIT License)
+- TypeScript (Apache-2.0 License)
+- Vite (MIT License)
+- Mantine (MIT License)
+- Zustand (MIT License)
+- TanStack Table (MIT License)
+- Zod (MIT License)
+- React Router (MIT License)
+
+Backend Dependencies:
+- Go (BSD 3-Clause License)
+- Gin (MIT License)
+- GORM (MIT License)
+- PostgreSQL driver (MIT License)
+
+This NOTICE file is provided in accordance with the licensing requirements
+of the open source packages used in this project.
